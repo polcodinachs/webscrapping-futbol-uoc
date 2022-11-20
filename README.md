@@ -10,3 +10,9 @@ Que recull les estadístiques de tots els partits jugats de la temporada 2018/20
 Aquest projecte està desenvolupat per Francesc Valls Tor i Pol Codinachs Latorre
 
 ## Contingut
+
+/dataset/..
+/source/..
+/pdf/..
+
+Zenodo: 10.5281/zenodo.7339755
