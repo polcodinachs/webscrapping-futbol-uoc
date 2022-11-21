@@ -11,9 +11,12 @@ Aquest projecte està desenvolupat per Francesc Valls Tor i Pol Codinachs Latorr
 
 ## Contingut
 
-**/dataset/dataset.csv:** Dataset del projecte amb les estadístiques de tots els partits de la lliga de futbol espanyola de la temporada 2018/2019.\newline
-**/source/main.py:** Script en python utilitzat per a fer web scrapping i generar el dataset anterior.\newline
-**/memoria.pdf:** Memòria del projecte responent al apartats sol·licitats en l'enunciat. \newline
+**/dataset/dataset.csv:** Dataset del projecte amb les estadístiques de tots els partits de la lliga de futbol espanyola de la temporada 2018/2019.
+
+**/source/main.py:** Script en python utilitzat per a fer web scrapping i generar el dataset anterior.
+
+**/memoria.pdf:** Memòria del projecte responent al apartats sol·licitats en l'enunciat.
+
 
 ## Dataset
 
