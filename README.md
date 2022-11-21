@@ -23,6 +23,6 @@ Aquest projecte està desenvolupat per Francesc Valls Tor i Pol Codinachs Latorr
 
 El fitxer **/source/main.py** pot executar-se de la següent manera per a generar el dataset de la temporada desitjada, sempre a partir de la 2018/2019:
 
-'''
+```
 python3 main.py 2019
-'''
+```
